@@ -23,7 +23,7 @@ var cardsArray = [{
   'img': 'img/mmmmm.png'
 }, {
   'name': 'Kaia Gerber',
-  'img': 'img/кайа.png'
+  'img': 'img/kaia.png'
 }, {
   'name': 'Boosie Badazz',
   'img': 'img/реп.png'
